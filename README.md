@@ -1,30 +1,19 @@
-# Getting Started with breaking bad drama
+# Breaking Bad Drama
 
-This project is related breaking bad drama [Breaking Bad](https://breaking-bad-devruhul.netlify.app/).
+Project [Live](https://breaking-bad-devruhul.netlify.app/) Link. 
 
-## Available Scripts
+## Features
+-   You can search by characters name
+-   Find their details
+-   Obviously this come from api.
+ 
 
-In the project directory, first you clone this repository and run:
 
-* yarn install
+## Technology
+HTML, CSS, React, React Router,Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Heroku, Vercel.
 
-then install dependency
+## Installation
 
- * npm i axios
-
- * yarn start
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
+-   Clone the repository
+-   Run `npm install` to install all the dependencies
+-   Run `npm start` to start the development server

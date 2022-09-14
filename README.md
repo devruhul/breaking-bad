@@ -5,7 +5,7 @@ Project [Live](https://breaking-bad-devruhul.netlify.app/) Link.
 ## Features
 -   You can search by characters name
 -   Find their details
--   Obviously this come from api.
+-   Obviously this comes from api.
  
 
 
